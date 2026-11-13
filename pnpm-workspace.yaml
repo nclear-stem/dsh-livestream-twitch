@@ -1,0 +1,6 @@
+# Own workspace root: this project is independent of the dsh-livestream (Bilibili) workspace above it.
+packages: []
+allowBuilds:
+  esbuild: true
+onlyBuiltDependencies:
+  - esbuild

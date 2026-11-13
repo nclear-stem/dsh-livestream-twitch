@@ -1,0 +1,12 @@
+node_modules/
+lib/
+*.log
+*.tgz
+.env
+.env.*
+.credentials.yaml
+.dsh-home/
+coverage/
+.venv/
+
+.DS_Store
